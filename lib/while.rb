@@ -3,6 +3,6 @@ def using_while
 levitation_force = levitation_force +=
 	4.times do
 		puts "Wingardium Leviosa"
-
+end
 	#your code here
 end
